@@ -7,6 +7,3 @@ test('renders learn react link', () => {
   expect(linkElement).toBeInTheDocument();
 });
 
-test('should be equal 1',()=>{
-   console.log("11111");
-});
